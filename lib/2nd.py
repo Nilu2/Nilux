@@ -11,6 +11,6 @@ def delay_print(s):
         time.sleep(0.003)
 delay_print
 delay_print (""+G+"╔════════════════════════════════════════╗  ""\n")
-delay_print (""+G+"║ Instagram: @ nilu_mahajan_official                ║  ""\n")
-delay_print (""+G+"║ Github: https://github.com/Nilu2/Nilux/ ║  ""\n")
+delay_print (""+G+"║ Instagram: @ nilu_mahajan_official     ║  ""\n")
+delay_print (""+G+"║ Github: https://github.com/Nilu2/Nilux ║  ""\n")
 delay_print (""+G+"╚════════════════════════════════════════╝  ""\n")
